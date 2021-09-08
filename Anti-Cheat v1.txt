@@ -14,3 +14,4 @@ DD000000 00000002
 0007C843 00000000
 0007C844 00000000
 D2000000 00000000
+{Made by: Cracktus Heinkel. Use the "B" button to activate the Anti-Cheat. Note: You HAVE to have another cheat avaliable to affect the whole game server side. Like Noxii's Final Plugin.}
