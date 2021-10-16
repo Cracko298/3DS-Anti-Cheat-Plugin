@@ -1,5 +1,5 @@
 # ISZ-Anti-Cheat-Plugin
-Ice Station Z and other games have cheaters. They ruin the online play, this plugin aims too disable NTR-CFW cheats & plugins during online gameplay. By error'ing the "Void Black" header in NTR's .plg file that is in use by people online and offline.
+Many 3ds games have cheaters. They ruin the online play, this plugin aims too disable NTR-CFW cheats & plugins during online gameplay. By error'ing the "Void Black" header in NTR's .plg file that is in use by people online and offline.
 
 
 *Note #1: This is a W.I.P. Anti-Cheat it WILL break & have bugs.
