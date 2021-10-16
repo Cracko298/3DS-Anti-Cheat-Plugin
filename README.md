@@ -9,3 +9,5 @@ Ice Station Z and other games have cheaters. They ruin the online play, this plu
 *Note #3: This only works for NTR-CFW cheats. Not CTRPF or Luma-Cheats. (And in any game. Not just Ice Station Z or BattleMinerZ).
 
 *Note #4: I made this on a European 3ds. Meaning I have absolutely no clue if it works for JPN, USA, or KOR consoles.
+
+*Note #5: This was originally made for Ice Station Z v1.2 on the 3ds. But it also works in many other games.
