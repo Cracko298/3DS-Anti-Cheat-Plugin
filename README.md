@@ -6,7 +6,7 @@ Many 3ds games have cheaters. They ruin the online play, this plugin aims too di
 
 *Note #2: The activation should be "B" your game will immediately crash when it is pressed. As long as with any cheaters online (If you're connected to an online game obv).
 
-*Note #3: This only works for NTR-CFW cheats. Not CTRPF or Luma-Cheats. (And in most 3ds games. Not just Ice Station Z, ACNL, or BattleMinerZ).
+*Note #3: This only works for NTR-CFW cheats. Not CTRPF or Luma-Cheats. Meaning it won't work with CTRPF or Luma-Cheats it only works using the NTR-CFW version of the Plugin.
 
 *Note #4: I made this on a European 3ds. Meaning I have absolutely no clue if it works for JPN, USA, or KOR consoles.
 
