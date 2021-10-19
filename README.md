@@ -4,7 +4,7 @@ Many 3ds games have cheaters. They ruin the online play, this plugin aims too di
 
 *Note #1: This is a W.I.P. Anti-Cheat it WILL break & have bugs.
 
-*Note #2: The activation key is "B" your game will immediately crash when the "B" key is pressed. As long as with any cheaters online. (If you're connected to an online game obv).
+*Note #2: The activation key is "B" your game will immediately crash when the "B" key is pressed. As well as with any cheaters online. (If you're connected to an online game obv).
 
 *Note #3: This only works for NTR-CFW cheats. Not CTRPF or Luma-Cheats. Meaning it won't work with CTRPF or Luma-Cheats it only works using the NTR-CFW version of the Plugin.
 
